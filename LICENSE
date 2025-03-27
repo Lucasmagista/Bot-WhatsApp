@@ -23,12 +23,15 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    - Hold the authors liable for any damage, loss, or consequence arising from the use of the Software.  
 
 4. **Disclaimer and Limitation of Liability**  
-   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF FUNCTIONALITY, FITNESS FOR A PARTICULAR PURPOSE, OR COMPATIBILITY WITH OTHER SYSTEMS.  
+   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR COMPATIBILITY WITH OTHER SYSTEMS.  
 
-   THE AUTHORS SHALL NOT BE LIABLE FOR:  
-   - Account suspensions, bans, or restrictions imposed by WhatsApp or other third-party platforms.  
-   - Any violation of third-party policies resulting from the use of the Software.  
-   - Data loss, system damage, or any other negative impact caused by the use or modification of the Software.  
+   THE AUTHORS AND CONTRIBUTORS SHALL NOT BE LIABLE FOR:  
+   - DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS, BUSINESS INTERRUPTION, OR OTHER LOSSES) ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+   - ACCOUNT SUSPENSIONS, BANS, OR RESTRICTIONS IMPOSED BY WHATSAPP OR OTHER THIRD-PARTY PLATFORMS.  
+   - ANY VIOLATION OF THIRD-PARTY POLICIES RESULTING FROM THE USE OF THE SOFTWARE.  
+   - DAMAGES RESULTING FROM MODIFICATIONS MADE BY THE USER OR THIRD PARTIES.  
+
+   THE USER ASSUMES ALL RISKS ASSOCIATED WITH THE USE OF THE SOFTWARE.  
 
 5. **Redistribution Terms**  
    If the Software is redistributed, **this license must be included in full**. Any modifications must be clearly indicated to avoid confusion regarding the original authorship.  
@@ -40,8 +43,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    Using the Software implies full and irrevocable acceptance of this license. If the User does not agree with these terms, **they must not use the Software**.  
 
 8. **Support and Maintenance**  
-   - The Software is provided **without any warranty of technical support**.  
-   - Updates and bug fixes may be released at the discretion of the authors, without obligation for continued maintenance.  
+   - THE SOFTWARE IS PROVIDED WITHOUT ANY WARRANTY OF TECHNICAL SUPPORT OR MAINTENANCE.  
+   - UPDATES, BUG FIXES, OR NEW FEATURES MAY BE RELEASED AT THE SOLE DISCRETION OF THE AUTHORS, WITHOUT ANY OBLIGATION TO CONTINUE DEVELOPMENT OR PROVIDE SUPPORT.  
 
 9. **Privacy and Data Collection**  
    If the Software collects, processes, or stores user or third-party data, the User **is responsible for compliance with all applicable privacy laws**, including but not limited to:  
@@ -63,7 +66,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    - The use of the project's name, logo, or brand identity is only permitted with explicit authorization from the authors.  
 
 13. **Risk of Account Bans or Blocks**  
-   - The authors **are not responsible** for accounts suspended or banned by WhatsApp or other platforms due to the use of the Software.  
+   - THE AUTHORS AND CONTRIBUTORS ARE NOT RESPONSIBLE FOR ACCOUNTS SUSPENDED, BANNED, OR BLOCKED BY WHATSAPP OR OTHER PLATFORMS DUE TO THE USE OF THE SOFTWARE.  
+   - THE USER IS SOLELY RESPONSIBLE FOR ENSURING COMPLIANCE WITH WHATSAPP'S TERMS OF SERVICE AND OTHER THIRD-PARTY POLICIES.  
 
 14. **Protection Against Reverse Engineering**  
    - The User **must not attempt to disassemble, decompile, or reverse-engineer** the Software.  
@@ -87,7 +91,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
    - The Software **must not be used** for activities violating human rights, promoting hate speech, unlawful surveillance, or any form of abuse against individuals or groups.  
 
 21. **License Revocation and Termination**  
-   - Any misuse of the Software may result in the **immediate revocation** of this license.  
+   - ANY MISUSE OF THE SOFTWARE, INCLUDING BUT NOT LIMITED TO VIOLATIONS OF THIS LICENSE, MAY RESULT IN THE IMMEDIATE REVOCATION OF THIS LICENSE.  
+   - THE AUTHORS RESERVE THE RIGHT TO TERMINATE THIS LICENSE AT THEIR SOLE DISCRETION IF THE USER ENGAGES IN ACTIVITIES THAT CAUSE HARM TO THIRD PARTIES OR VIOLATE APPLICABLE LAWS.  
 
 22. **Jurisdiction and Dispute Resolution**  
    - Any legal disputes shall be governed by the laws of **[Brazil]**.  
