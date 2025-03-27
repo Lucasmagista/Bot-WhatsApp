@@ -13,7 +13,7 @@ Este projeto é um bot automatizado para WhatsApp Business utilizando a bibliote
 
 A biblioteca funciona iniciando o aplicativo do navegador WhatsApp Web e gerenciando-o usando o Puppeteer para criar uma instância do WhatsApp Web, mitigando assim o risco de ser bloqueado. O cliente da API do WhatsApp se conecta por meio do aplicativo do navegador WhatsApp Web, acessando suas funções internas. Isso lhe concede acesso a quase todos os recursos disponíveis no WhatsApp Web, permitindo um manuseio dinâmico semelhante a qualquer outro aplicativo Node.js.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > **Não há garantia de que você não será bloqueado usando esse método. O WhatsApp não permite bots ou clientes não oficiais em sua plataforma, então isso não deve ser considerado totalmente seguro.**
 
 ---
