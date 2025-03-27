@@ -272,26 +272,26 @@ Bot: Claro! Temos diversos serviços disponíveis. Qual você gostaria de consul
 
 ---
 
-## Contributing
+## Contribuindo
 
-Feel free to open pull requests; we welcome contributions! However, for significant changes, it's best to open an issue beforehand. Make sure to review our [contribution guidelines][contributing] before creating a pull request. Before creating your own issue or pull request, always check to see if one already exists!
+Sinta-se à vontade para abrir solicitações de pull; contribuições são bem-vindas! No entanto, para mudanças significativas, é melhor abrir um problema com antecedência. Certifique-se de revisar nossas [diretrizes de contribuição][contribuindo] antes de criar um pull request. Antes de criar seu próprio problema ou solicitação de pull, sempre verifique se já existe um!
 
-## Disclaimer
+## Isenção de responsabilidade
 
-This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates. The official WhatsApp website can be found at [whatsapp.com][whatsapp]. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners. Also it is not guaranteed you will not be blocked by using this method. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.
+Este projeto não é afiliado, associado, autorizado, endossado por, ou de qualquer forma oficialmente conectado ao WhatsApp ou qualquer uma de suas subsidiárias ou afiliadas. O site oficial do WhatsApp pode ser encontrado em [whatsapp.com][whatsapp]. "WhatsApp", bem como nomes, marcas, emblemas e imagens relacionados são marcas registradas de seus respectivos proprietários. Também não há garantia de que você não será bloqueado usando este método. O WhatsApp não permite bots ou clientes não oficiais em sua plataforma, então isso não deve ser considerado totalmente seguro.
 
-## License
+## Licença
 
-Copyright 2019 Pedro S Lopez  
+Copyright 2019 Lucas V Magista  
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Este projeto é licenciado sob a Licença MIT. Veja o [LICENSE](LICENSE) arquivo para mais detalhes.
 
-Licensed under the Apache License, Version 2.0 (the "License");  
-you may not use this project except in compliance with the License.  
-You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.  
+Licenciado sob a Licença Apache, Versão 2.0 (a "Licença");
+você não pode usar este projeto exceto em conformidade com a Licença.
+Você pode obter uma cópia da Licença em http://www.apache.org/licenses/LICENSE-2.0.
 
-Unless required by applicable law or agreed to in writing, software  
-distributed under the License is distributed on an "AS IS" BASIS,  
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
-See the License for the specific language governing permissions and  
-limitations under the License.  
+A menos que exigido pela lei aplicável ou acordado por escrito, o software
+distribuído sob a Licença é distribuído "NO ESTADO EM QUE SE ENCONTRA",
+SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas.
+Veja a Licença para o idioma específico que rege as permissões e
+limitações sob a Licença.
