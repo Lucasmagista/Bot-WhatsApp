@@ -1,21 +1,97 @@
-MIT License
+MIT License  
 
-Copyright (c) 2025 Lucas Magista
+Copyright (c) [2024] [Lucas Magista]  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Definitions**  
+   - "Software" refers to the source code, compiled code, libraries, APIs, documentation, assets, dependencies, configurations, and any files related to the operation of this project.  
+   - "User" refers to any person or entity obtaining a copy of the Software.  
+   - "Modification" includes changes to the source code, reconfiguration of dependencies, adaptation for other systems, or any form of customization of the Software.  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Grant of Permission**  
+   The User is permitted to:  
+   - Use, copy, and modify the Software for any purpose, including commercial and personal use.  
+   - Redistribute the Software in its original or modified form.  
+   - Integrate the Software with other systems, applications, or services.  
+
+3. **Restrictions**  
+   The User **must not**:  
+   - Use the Software for illegal activities or in violation of WhatsApp’s Terms of Service or any other third-party policies.  
+   - Remove or modify any copyright notices present in the source code or documentation.  
+   - Claim exclusive authorship of the Software, especially when redistributing it.  
+   - Hold the authors liable for any damage, loss, or consequence arising from the use of the Software.  
+
+4. **Disclaimer and Limitation of Liability**  
+   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF FUNCTIONALITY, FITNESS FOR A PARTICULAR PURPOSE, OR COMPATIBILITY WITH OTHER SYSTEMS.  
+
+   THE AUTHORS SHALL NOT BE LIABLE FOR:  
+   - Account suspensions, bans, or restrictions imposed by WhatsApp or other third-party platforms.  
+   - Any violation of third-party policies resulting from the use of the Software.  
+   - Data loss, system damage, or any other negative impact caused by the use or modification of the Software.  
+
+5. **Redistribution Terms**  
+   If the Software is redistributed, **this license must be included in full**. Any modifications must be clearly indicated to avoid confusion regarding the original authorship.  
+
+6. **Modifications to the License**  
+   The authors reserve the right to modify the terms of this license at any time. The latest version will be available in the official project repository.  
+
+7. **Acceptance of Terms**  
+   Using the Software implies full and irrevocable acceptance of this license. If the User does not agree with these terms, **they must not use the Software**.  
+
+8. **Support and Maintenance**  
+   - The Software is provided **without any warranty of technical support**.  
+   - Updates and bug fixes may be released at the discretion of the authors, without obligation for continued maintenance.  
+
+9. **Privacy and Data Collection**  
+   If the Software collects, processes, or stores user or third-party data, the User **is responsible for compliance with all applicable privacy laws**, including but not limited to:  
+   - **LGPD (Brazil)**  
+   - **GDPR (European Union)**  
+   - **CCPA (California, USA)**  
+
+   The authors **are not responsible for any misuse of collected data**.  
+
+10. **Integration with Third-Party Services**  
+   - The Software may rely on third-party APIs or services.  
+   - The User **must comply with the Terms of Service of these platforms**.  
+
+11. **Commercial Use and Custom Licenses**  
+   - The User may use the Software for commercial purposes, provided they comply with this license.  
+   - For proprietary licensing or exclusive support, a separate agreement must be negotiated with the authors.  
+
+12. **Trademarks, Logos, and Associated Names**  
+   - The use of the project's name, logo, or brand identity is only permitted with explicit authorization from the authors.  
+
+13. **Risk of Account Bans or Blocks**  
+   - The authors **are not responsible** for accounts suspended or banned by WhatsApp or other platforms due to the use of the Software.  
+
+14. **Protection Against Reverse Engineering**  
+   - The User **must not attempt to disassemble, decompile, or reverse-engineer** the Software.  
+
+15. **Malicious Modifications**  
+   - If the User modifies the Software in a way that causes harm to third parties, **the authors are not liable**.  
+
+16. **Export and International Restrictions**  
+   - The User is responsible for complying with **any applicable export laws** regarding the Software.  
+
+17. **Use in AI, Machine Learning, and Automation**  
+   - The Software **must not be used** for AI training or machine learning without the express permission of the authors.  
+
+18. **Environmental Impact and Resource Usage**  
+   - The User **should consider sustainable practices** when using the Software in high-energy-consuming infrastructures.  
+
+19. **Conditions for Business and Enterprise Use**  
+   - Companies must obtain a **corporate license** for large-scale usage.  
+
+20. **Ethical Principles and Values**  
+   - The Software **must not be used** for activities violating human rights, promoting hate speech, unlawful surveillance, or any form of abuse against individuals or groups.  
+
+21. **License Revocation and Termination**  
+   - Any misuse of the Software may result in the **immediate revocation** of this license.  
+
+22. **Jurisdiction and Dispute Resolution**  
+   - Any legal disputes shall be governed by the laws of **[Brazil]**.  
+   - Before pursuing legal action, the parties agree to **seek mediation and arbitration**.  
+
+THIS LICENSE DOES NOT GRANT THE USER ANY OWNERSHIP RIGHTS OVER THE SOFTWARE, EXCEPT AS EXPRESSLY STATED HEREIN.
+
