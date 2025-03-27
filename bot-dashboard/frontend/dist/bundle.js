@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("Bot Dashboard iniciado!")})();
