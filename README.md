@@ -8,6 +8,14 @@
 
 Este projeto é um bot automatizado para WhatsApp Business utilizando a biblioteca [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js). Ele inclui um **painel administrativo (dashboard)** desenvolvido em React e Node.js para gerenciar interações, agendamentos e métricas.
 
+## Sobre
+**Um cliente de API do WhatsApp que se conecta por meio do aplicativo do navegador WhatsApp Web**
+
+A biblioteca funciona iniciando o aplicativo do navegador WhatsApp Web e gerenciando-o usando o Puppeteer para criar uma instância do WhatsApp Web, mitigando assim o risco de ser bloqueado. O cliente da API do WhatsApp se conecta por meio do aplicativo do navegador WhatsApp Web, acessando suas funções internas. Isso lhe concede acesso a quase todos os recursos disponíveis no WhatsApp Web, permitindo um manuseio dinâmico semelhante a qualquer outro aplicativo Node.js.
+
+> [!IMPORTANTE]
+> **Não há garantia de que você não será bloqueado usando esse método. O WhatsApp não permite bots ou clientes não oficiais em sua plataforma, então isso não deve ser considerado totalmente seguro.**
+
 ---
 
 ## Funcionalidades
@@ -264,6 +272,26 @@ Bot: Claro! Temos diversos serviços disponíveis. Qual você gostaria de consul
 
 ---
 
-## Licença
+## Contributing
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Feel free to open pull requests; we welcome contributions! However, for significant changes, it's best to open an issue beforehand. Make sure to review our [contribution guidelines][contributing] before creating a pull request. Before creating your own issue or pull request, always check to see if one already exists!
+
+## Disclaimer
+
+This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates. The official WhatsApp website can be found at [whatsapp.com][whatsapp]. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners. Also it is not guaranteed you will not be blocked by using this method. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.
+
+## License
+
+Copyright 2019 Pedro S Lopez  
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+Licensed under the Apache License, Version 2.0 (the "License");  
+you may not use this project except in compliance with the License.  
+You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.  
+
+Unless required by applicable law or agreed to in writing, software  
+distributed under the License is distributed on an "AS IS" BASIS,  
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  
+See the License for the specific language governing permissions and  
+limitations under the License.  
